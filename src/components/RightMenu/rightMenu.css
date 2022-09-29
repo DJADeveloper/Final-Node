@@ -1,0 +1,14 @@
+.rightMenu {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  background-color: darkslategrey;
+  padding: 10px;
+  text-align: start;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
